@@ -3,4 +3,4 @@ UBC MDS DSCI 522: Data Science Workflows
 
 Authored by @tonyshumlh
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
